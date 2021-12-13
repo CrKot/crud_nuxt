@@ -1,0 +1,9 @@
+/crud_back/node_modules
+/crud_back/package-lock.json
+/crud_back/.env
+/crud_front/node_modules
+/crud_front/package-lock.json
+/crud_front/.nuxt
+.idea/
+.mongodb
+.env
